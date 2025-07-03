@@ -78,6 +78,14 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na IBMR, onde estou con
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+ <img 
+    align="left" 
+    alt="VITEST"
+    title="VITEST" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 <br/>
 <br/>
 
