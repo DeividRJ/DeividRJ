@@ -96,7 +96,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na IBMR, onde estou con
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividRJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
