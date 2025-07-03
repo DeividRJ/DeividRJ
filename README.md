@@ -2,7 +2,10 @@
 
 **`Desenvolvedor back-end com interesse em me tornar um profissional Fullstack`**
 
-Me chamo Deivid Pereira da Silva, tenho 32 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Estadual Brigadeiro Schorcht, tenho curso técnico em administração pelo Senac RJ. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IBMR.
+Olá! Meu nome é Deivid Pereira da Silva, tenho 32 anos e sou do Rio de Janeiro.
+Sou formado no ensino médio pelo Colégio Estadual Brigadeiro Schorcht e possuo curso técnico em Administração pelo Senac RJ.
+
+Atualmente, curso Análise e Desenvolvimento de Sistemas na IBMR, onde estou construindo minha base em programação e desenvolvimento web. Paralelamente, aprofundo meus estudos em Node.js pela plataforma Rocketseat, buscando evoluir como desenvolvedor back-end e expandir meus conhecimentos para atuar como Fullstack no futuro.
 
 <p align="left">
     </a>
@@ -81,19 +84,14 @@ Me chamo Deivid Pereira da Silva, tenho 32 anos e sou natural do Rio de Janeiro.
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividRJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+
 
 </p>
