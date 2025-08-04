@@ -1,4 +1,4 @@
-# 👨‍💻 Deivid Pereira da Silva
+# Deivid Pereira da Silva
 
 **`Desenvolvedor back-end com interesse em me tornar um profissional Fullstack`**
 
