@@ -101,5 +101,4 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na IBMR, onde estou con
   />
 
 
-
 </p>
