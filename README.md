@@ -6,7 +6,7 @@ Olá! Meu nome é Deivid Pereira da Silva, tenho 32 anos e sou do Rio de Janeiro
 Sou formado no ensino médio pelo Colégio Estadual Brigadeiro Schorcht e possuo curso técnico em Administração pelo Senac RJ.
 
 Atualmente, curso Análise e Desenvolvimento de Sistemas na IBMR, onde estou construindo minha base em programação e desenvolvimento web. Paralelamente, aprofundo meus estudos em Node.js pela plataforma Rocketseat, buscando evoluir como desenvolvedor back-end e expandir meus conhecimentos para atuar como Fullstack no futuro.
-   
+    
 <p align="left">
     </a>
         <a href="https://www.linkedin.com/in/deivid-silva-b82608368/">
